@@ -5,6 +5,7 @@ public class Car {
 	int price;
 	boolean isAirBag;
 	String color;
+	int tax;
 	
 
 }
